@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on API Projects.
-- 🌱 I’m currently learning Front End Web Development(Javascript,Svelte and,Data Structures and Algorithm).
+- 🌱 I’m currently learning Front End Web Development(Javascript,React and,Data Structures and Algorithm).
 - 👯 I’m looking to collaborate on Open Source projects.
 - 🤔 I’m passionate about programming and i love music, reading,travelling and exploring. 
 - 💬 Ask me about anything productive.
