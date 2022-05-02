@@ -13,7 +13,7 @@
 - 💬 Ask me about anything productive.
 - 📫 How to reach me:  <a href="https://twitter.com/molly_simply">Twitter</a> and  <a href="https://LinkedIn.com/Molly Vanessa">LinkedIn</a>
 - 😄 Pronouns: I am a She/Her
-- ⚡ Fun fact: .I'm a fast learner!
+- ⚡ Fun fact: I'm a fast learner!
 
     
 <img 
